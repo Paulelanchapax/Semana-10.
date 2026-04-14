@@ -15,7 +15,6 @@ int main(){
 	}
 	if (num>mayor){
 		mayor=num;
-		
 	}
 	if (num<menor){
 		menor=num;
